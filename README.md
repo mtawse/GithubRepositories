@@ -1,4 +1,12 @@
-# AI Generated Github Repsoitories
+# AI Generated Github Repsoitory List
+
+## Installation
+
+```
+./install_and_run.sh
+```
+
+Navigate to http://localhost:3000
 
 ## Model
 
